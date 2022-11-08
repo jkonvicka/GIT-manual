@@ -17,3 +17,5 @@
 
 ## CLONE repository
 * git clone github https://github.com/<user>/<repository>
+
+This message has been written at branch develop.
