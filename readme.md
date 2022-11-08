@@ -15,11 +15,7 @@
 * git remote add github https://github.com/<user>/<repository>
 * git push github master
 
-
-
-
-
-
-
+## CLONE repository
+* git clone github https://github.com/<user>/<repository>
 
 This message has been written at branch develop.
